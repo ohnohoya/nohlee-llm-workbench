@@ -16,3 +16,6 @@ results_ui/dist/
 # OS/editor noise
 .DS_Store
 .idea/
+
+# Local development resources
+dev/
