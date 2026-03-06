@@ -1,0 +1,11 @@
+.git
+.gitignore
+.venv
+__pycache__
+*.py[cod]
+.DS_Store
+.idea
+
+output
+results_ui/node_modules
+results_ui/dist

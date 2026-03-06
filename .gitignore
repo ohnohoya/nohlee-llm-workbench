@@ -1,0 +1,18 @@
+# Python local artifacts
+.venv/
+__pycache__/
+*.py[cod]
+
+# Runtime outputs
+output/
+
+# Local secrets
+.env
+
+# Frontend generated artifacts
+results_ui/node_modules/
+results_ui/dist/
+
+# OS/editor noise
+.DS_Store
+.idea/
