@@ -1,8 +1,23 @@
-# nohlee-llm-workbench
+# Nohlee LLM Workbench
 
-Small, standalone runner for experimenting with LLM APIs, logging results to JSON, and viewing them with a simple local UI.
+An open-source LLM workbench for experimenting with:
+
+- prompt engineering
+- batch model evaluation
+- response parameter tuning
+- model comparison
+- model response detail reporting (for example, metadata such as actual temperature or reasoning settings used)
+
+This project helps you run repeatable LLM experiments, save results as JSON, and inspect outputs in a local UI.
 
 Currently supported provider: OpenAI (OpenAI models only).
+
+## Optional: Install Codex CLI
+If you want a local coding agent CLI workflow, install Codex globally:
+
+```bash
+npm install -g @openai/codex
+```
 
 Maintained by Jeonghun Noh (Nohlee Tech inc.).
 
